@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+data/
+downloads/
+database.json
+database.json.bak
+database.corrupt.*.json
+settings.json
+*.session
+*.session-journal
+bot.log
+.env
+cookies.txt

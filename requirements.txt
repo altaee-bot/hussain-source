@@ -1,0 +1,13 @@
+# ── الأساسيات ──
+telethon
+yt-dlp
+aiohttp
+pytz
+pillow
+qrcode[pil]
+deep-translator
+psutil
+# ── اختياري ──
+speedtest-cli      # أمر .سرعة
+# ملاحظة: لازم ffmpeg مثبّت بالسيرفر لدقات الفيديو العالية وصيغة MP3 بأمر .يوت
+#   Ubuntu/Mint: sudo apt install ffmpeg      Manjaro: sudo pacman -S ffmpeg
